@@ -153,7 +153,7 @@ body {
   color: #222;
   font-weight: 600;
   font-family: 'Montserrat';
-  background-image: url('/images/homepage.jpeg');
+  background-image: url('../images/homepage.jpeg');
   /* background: #c5e9ff; */
   padding: 115px 0;
   background-repeat: no-repeat;
